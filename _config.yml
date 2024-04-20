@@ -22,7 +22,7 @@ title: ZHU Hong'ao
 email: cisco_sfl_sjtu@sjtu.edu.cn
 description: >- # this means to ignore newlines until "domain:"
   This website is created and maintained by Hongao, currently a linguistic junior at Shanghai Jiao Tong University.
-  To know more about him and potential research opportunities, feel free to send e-mails!
+  I am happy to receive e-mails and hear from new friends!
 domain: hongao.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: "http://hongao0611.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
