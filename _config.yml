@@ -25,8 +25,8 @@ description: >- # this means to ignore newlines until "domain:"
   To know more about him and potential research opportunities, feel free to send e-mails!
 domain: hongao.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 
-baseurl: "/entrance" # the subpath of your site, e.g. /blog
-url: "http://hongao0611.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/hongao0611.github.io" # the subpath of your site, e.g. /blog
+url: "http://hongao0611.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  Hongao0611
 
