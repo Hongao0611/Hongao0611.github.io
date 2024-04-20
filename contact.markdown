@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-permalink: /about/contact/
+permalink: /contact/
 ---
 
 E-mail: cisco_sfl_sjtu@sjtu.edu.cn
