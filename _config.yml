@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Hongao's personal website
+title: ZHU Hong'ao
 email: cisco_sfl_sjtu@sjtu.edu.cn
 description: >- # this means to ignore newlines until "domain:"
   This website is created and maintained by Hongao, currently a linguistic junior at Shanghai Jiao Tong University.
