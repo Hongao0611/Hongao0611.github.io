@@ -8,6 +8,6 @@ I am Hongao ZHU, a linguistics junior from Shanghai Jiao Tong University (SJTU),
 
 My research focus is computational linguistics, especially concerning multilingual syntactic and pragmatic benchmarking for language models, authorship attribution in AI detection, as well as critical discourse analysis of news media. With deep interests and consistent practice in computational linguistics, I currently partake in the computational linguistics lab at SJTU as a research assistant.
 
-Here's my <a href="Hongao0611.github.io/CV.pdf" target="_blank">CV.</a>
+Here's my <a href="CV.pdf" target="_blank">CV.</a>
 
-If you have any questions or may desire to communicate with me in deepr depth, feel free to write me <a href="Hongao0611.github.io/contact/" target="_blank">e-mails.</a>!
+If you have any questions or may desire to communicate with me in deepr depth, feel free to write me e-mails!
