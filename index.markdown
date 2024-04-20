@@ -6,7 +6,7 @@ layout: home
 ---
 Welcome to my homepage!
 
-I am 朱虹翱 (pinyin: ZHŪ HÓNG ÁO, English: Hongao ZHU), a linguistics junior from Shanghai Jiao Tong University (SJTU), Shanghai, China. Here's a copy of my [CV].
+I am 朱虹翱 (pinyin: ZHŪ HÓNG ÁO, English: ZHU Hong'ao), a linguistics junior from Shanghai Jiao Tong University (SJTU), Shanghai, China. Here's a copy of my [CV].
 
 To know more about me and my research interests, please visit the [about] page.
 
