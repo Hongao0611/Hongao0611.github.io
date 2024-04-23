@@ -13,7 +13,7 @@ My research focus is computational linguistics, especially concerning multilingu
 
 Besides, I am interested in digital humanities, particularly stylistics. I found AIGC distinction from the perspective of stylometry quite promising, and I enjoy revealing the secrets of words.
 
-Here's my <a href="CV.pdf" target="_blank">CV.</a> I am more than happy to meet new friends and dicuss about research.
+Here's my <a href="/assets/pdf/CV.pdf" target="_blank">CV.</a> I am more than happy to meet new friends and dicuss about research.
 
 ### Hobbies
 Born and brought up in a mountainous cosmopolitan, 重庆 (CHÓNG QÌNG), I love hiking, camping, and hot-pot.

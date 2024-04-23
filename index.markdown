@@ -6,7 +6,8 @@ layout: home
 ---
 Welcome to my homepage!
 
-![我的图片](/assets/images/mypic.jpg)
+<img src="/assets/images/mypic.jpg" alt="替代文本" title="标题" style="width:20%;height:auto;">
+
 
 I am 朱虹翱 (pinyin: ZHŪ HÓNG ÁO, English: ZHU Hong'ao), a linguistics junior from Shanghai Jiao Tong University (SJTU), Shanghai, China. Here's a copy of my [CV].
 
@@ -16,4 +17,4 @@ If you may desire to communicate with me in deeper depth, please check out the [
 
 [about]: /about.markdown/
 [contact]: /contact.markdown/
-[CV]: /CV.pdf
+[CV]: /assets/pdf/CV.pdf
