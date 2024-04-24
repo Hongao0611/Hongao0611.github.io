@@ -4,10 +4,9 @@
 
 layout: home
 ---
+<img src="/assets/images/mypic.jpg" alt="替代文本" title="标题" style="width:15%;height:auto;">
+
 Welcome to my homepage!
-
-<img src="/assets/images/mypic.jpg" alt="替代文本" title="标题" style="width:20%;height:auto;">
-
 
 I am 朱虹翱 (pinyin: ZHŪ HÓNG ÁO, English: ZHU Hong'ao), a linguistics junior from Shanghai Jiao Tong University (SJTU), Shanghai, China. Here's a copy of my [CV].
 
