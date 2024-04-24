@@ -4,7 +4,7 @@
 
 layout: home
 ---
-<img src="/assets/images/mypic.jpg" alt="替代文本" title="标题" style="width:15%;height:auto;">
+<img src="/assets/images/mypic.jpg" alt="替代文本" title="标题" style="width:10%;height:auto;">
 
 Welcome to my homepage!
 
