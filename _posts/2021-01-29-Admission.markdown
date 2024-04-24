@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Directly Admitted into Shanghai Jiao Tong University for English Proficiency"
+title:  "Directly Admitted into Shanghai Jiao Tong University"
 date:   2021-01-29 13:45:02 +0800
 ---
 
