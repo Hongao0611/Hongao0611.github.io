@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Project completion --- Turning Enemies into Friends: Assessing the Communication Effect of Chinese Image in Australian Public Discourse in the New Era and Its Implications for the Construction of International Discourse of Chinese Modernization (2022–2023)"
+title:  "Turning Enemies into Friends: Assessing the Communication Effect of Chinese Image in Australian Public Discourse in the New Era and Its Implications for the Construction of International Discourse of Chinese Modernization (2022–2023)"
 date:   2023-04-19 13:45:02 +0800
 ---
 

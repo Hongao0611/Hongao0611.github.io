@@ -22,7 +22,7 @@ I am 朱虹翱 (pinyin: ZHŪ HÓNG ÁO, English: ZHU Hong'ao), a linguistics jun
 
 To know more about me and my research interests, please visit the [About] page.
 
-If you may desire to communicate with me in deeper depth, please check out the [Contact] page.
+If you may desire to communicate with me in greater depth, please check out the [Contact] page.
 
 [About]: /about.markdown/
 [Contact]: /contact.markdown/

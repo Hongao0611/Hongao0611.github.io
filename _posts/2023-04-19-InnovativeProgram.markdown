@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Project Completion --- Eternal themes and changing sentiments: An NLP-based diachronic study of classical literary works across 700 years (2021–2023)"
+title:  "Eternal themes and changing sentiments: An NLP-based diachronic study of classical literary works across 700 years (2021–2023)"
 date:   2023-04-19 14:45:02 +0800
 ---
 
