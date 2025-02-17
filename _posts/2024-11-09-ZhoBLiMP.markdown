@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "ZhoBLiMP: a Systematic Assessment of Language Models with Linguistic Minimal Pairs in Chinese"
+date:   2024-11-09 07:16:08 +0800
+---
+
+After entering the SJTU computational linguistics lab for nearly a year, Hong'ao published his first paper on Arxiv: " <a href="https://arxiv.org/abs/2411.06096" target="_blank">ZhoBLiMP: a Systematic Assessment of Language Models with Linguistic Minimal Pairs in Chinese</a>."
+
+<img src="/assets/images/zhoblimp/phenomena.png" alt="替代文本" title="Phenomena covered in ZhoBLiMP" style="width:40%;height:auto;">
+
+<img src="/assets/images/zhoblimp/models.png" alt="替代文本" title="Models tested in ZhoBLiMP" style="width:40%;height:auto;">
+
+Whether and how language models (LMs) acquire the syntax of natural languages has been widely evaluated under the minimal pair paradigm. However, a lack of wide-coverage benchmarks in languages other than English has constrained systematic investigations into the issue. Addressing it, we first introduce ZhoBLiMP, the most comprehensive benchmark of linguistic minimal pairs for Chinese to date, with 118 paradigms, covering 15 linguistic phenomena. We then train 20 LMs of different sizes (14M to 1.4B) on Chinese corpora of various volumes (100M to 3B tokens) and evaluate them along with 14 off-the-shelf LLMs on ZhoBLiMP. The overall results indicate that Chinese grammar can be mostly learned by models with around 500M parameters, trained on 1B tokens with one epoch, showing limited benefits for further scaling. Most (N=95) linguistic paradigms are of easy or medium difficulty for LMs, while there are still 13 paradigms that remain challenging even for models with up to 32B parameters. In regard to how LMs acquire Chinese grammar, we observe a U-shaped learning pattern in several phenomena, similar to those observed in child language acquisition.
+
+<img src="/assets/images/zhoblimp/overgeneralization.png" alt="替代文本" title="Part of the results in ZhoBLiMP" style="width:40%;height:auto;">
+
+As the third author of this publication, he was responsible for the construction of the benchmark, particularly the "ba (把)" and "bei (被)" phenomena. He also participated in the training and evaluation of LMs, including 7 trained-from-scratch Zh-Pythia models as well as the off-the-shelf LLMs.
+
