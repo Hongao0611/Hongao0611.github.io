@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "New Horizons in Digital Humanities & Cultural Data Science Workshop (2023)"
+date:   2023-06-01 14:45:02 +0800
+---
+
+Before the world's children's day, Hong'ao attended the 2023 New Horizons in Digital Humanities & Cultural Data Science Workshop at Hong Kong University. The trip was costly yet fufilling, as eminent professors who specialized in various subfilds of digital humanities were invited to speak about their future visions of AI, just before ChatGPT came into the spotlight.
+<div style="display: flex;">
+<img src="/assets/images/hk/arrival.jpg" alt="替代文本" title="On arrival" style="width:50%;height:auto;margin:auto;">
+</div>
+
+Hong'ao, together with a PhD student and an undergraduate fellow, attended the program as representatives of SJTU. He was fortunate to had conversed with Professor David Mimno from Cornell on the granularity of topic-modeling:
+> Topic-modeling was like a telescope that allows zooming in and out; there is no optimal answer to the parameters of any LDA algorithm, as everything depends on the granuality of "truth" you would like to observe...
+
+This conversation deepened his understanding of machine learning for humanities, and prompted him further towards the road of computational linguistics.
+
+Besides, what Hong'ao particularly enjoyed was the lunch and dinner offered during the session breaks.
+<div style="display: flex;">
+    <img src="/assets/images/hk/food.jpg" alt="替代文本" title="Hong Kong food" style="width:80%;height:auto;margin:auto;">
+</div>

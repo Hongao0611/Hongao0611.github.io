@@ -10,4 +10,6 @@ This program was rated highest among all the due programs. It is marked complete
 
 As the data analyst of the team, he was happy to see the three-year long project accomplished. He was responsible for all the data processing, modeling and analysis in this program. And it was his first program in the university.
 
-<img src="/assets/images/大创照片.jpeg" alt="替代文本" title="Hong'ao's picture" style="width:40%;height:auto;">
+<div style="display: flex;">
+    <img src="/assets/images/大创照片.jpeg" alt="替代文本" title="Hong'ao's picture" style="width:80%;height:auto;margin:auto;">
+</div>

@@ -6,6 +6,8 @@ date:   2022-11-18 13:45:02 +0800
 
 In the 2022 China International Law of the Sea Moot Court Competition, Hong'ao was appointed oralist to defend for the Kingdom of Ellis and the Republic of Futuna concerning the issue 3 and issue 4. Our team won the second runner-up, and I was honored to receive the highest score from GAO Zhiguo, China's former judge in the ITLOS (International Tribunal for the Law Of the Sea).
 
-Check out the [news].
+Check out the [news](https://mp.weixin.qq.com/s/ExgnBBGwhsCzQQ1oltMrMw).
 
-[news]: https://mp.weixin.qq.com/s/ExgnBBGwhsCzQQ1oltMrMw
+<div style="display: flex;">
+    <img src="/assets/images/MOOT.jpg" alt="替代文本" title="Meet the team" style="width:80%;height:auto;margin:auto;">
+</div>

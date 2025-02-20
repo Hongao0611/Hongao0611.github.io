@@ -65,5 +65,6 @@ header_pages:
   - _pages/publications.markdown
   - _pages/projects.markdown
   - _pages/resources.markdown
+  - _pages/gallery.markdown
   - _pages/CV.markdown
   - _pages/contact.markdown
