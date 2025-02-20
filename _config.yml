@@ -57,3 +57,13 @@ defaults:
       path: "assets/img"
     values:
       image: true
+
+# edit this section to change the order of titles on the index page
+include: ["_pages"]
+header_pages:
+  - _pages/about.markdown
+  - _pages/publications.markdown
+  - _pages/projects.markdown
+  - _pages/resources.markdown
+  - _pages/CV.markdown
+  - _pages/contact.markdown

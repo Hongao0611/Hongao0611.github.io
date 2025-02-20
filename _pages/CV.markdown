@@ -2,6 +2,7 @@
 layout: null
 title: "CV"
 permalink: /CV/
+published: true
 ---
 
 <!DOCTYPE html>

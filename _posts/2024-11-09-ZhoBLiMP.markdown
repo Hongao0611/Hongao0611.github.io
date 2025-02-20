@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ZhoBLiMP: a Systematic Assessment of Language Models with Linguistic Minimal Pairs in Chinese"
+title:  "ZhoBLiMP: a Systematic Assessment of Language Models with Linguistic Minimal Pairs in Chinese (2024)"
 date:   2024-11-09 07:16:08 +0800
 ---
 
