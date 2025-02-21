@@ -24,6 +24,6 @@ To know more about me and my research interests, please visit the [About] page.
 
 If you may desire to communicate with me in greater depth, please check out the [Contact] page.
 
-[About]: /about.markdown/
-[Contact]: /contact.markdown/
+[About]: /_pages/about.markdown/
+[Contact]: /_pages/contact.markdown/
 [CV]: /assets/pdf/CV.pdf
