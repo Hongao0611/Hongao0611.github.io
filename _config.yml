@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: ZHU Hong'ao
+title: Hongao Zhu
 email: cisco_sfl_sjtu@sjtu.edu.cn
 description: >- # this means to ignore newlines until "domain:"
-  Hong'ao's Personal website
+  Hongao's Personal website
 domain: hongao.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: "http://hongao0611.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb

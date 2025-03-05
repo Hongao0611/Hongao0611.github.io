@@ -20,5 +20,5 @@ During his stay, Hong'ao enjoyed the British cuisine as much as the intellecural
     <img src="/assets/images/oxford/dinner.jpg" alt="替代文本" title="Dinner in bistro" style="width:49%;height:auto;">
 </div>
 
-As part of the project, Hong'ao teamed up with his follows in making short films as well as carrying out local food surveys. They focused on the diatery discrepencies between Chinese and English residents, visited cusines in small alleys and on side of broad ways, winning the best presentation of the program [**[PPT]**](/assets/pdf/Oxford.pdf).
+As part of the project, Hong'ao teamed up with his follows in making short films as well as carrying out local food surveys. They focused on the diatery discrepencies between Chinese and English residents, visiting cusines in small alleys and on side of broad ways. They won the best presentation of the program [**[PPT]**](/assets/pdf/Oxford.pdf).
 
