@@ -18,13 +18,13 @@ layout: home
 
 Welcome to my homepage!
 
-I am 朱虹翱 (pinyin: ZHŪ HÓNG ÁO, English: Hongao Zhu), a linguistics senior from Shanghai Jiao Tong University (SJTU), Shanghai, China. Here's a copy of my [CV]. I will be joining UC San Diego’s Learning, Meaning, and Natural language lab (LeM🍋N Lab) for 2025, as a  PhD student in computational linguistics (advisor: Alex Warstadt[Alex]).
+I am 朱虹翱 (pinyin: ZHŪ HÓNG ÁO, English: Hongao Zhu), a linguistics senior from Shanghai Jiao Tong University (SJTU), Shanghai, China. Here's a copy of my [CV].
 
-To know more about me and my research interests, please visit the [About] page.
+I will be joining UC San Diego’s Learning, Meaning, and Natural language lab (LeM🍋N Lab) for 2025, as a PhD student in computational linguistics (advisor: [Alex Warstadt]).
 
-If you may desire to communicate with me in greater depth, please check out the [Contact] page.
+To know more about me and my research interests, please visit the [About] page. If you may desire to communicate with me in greater depth, please check out the [Contact] page.
 
 [About]: /_pages/about.markdown/
 [Contact]: /_pages/contact.markdown/
 [CV]: /assets/pdf/CV.pdf
-[Alex]: https://alexwarstadt.github.io
+[Alex Warstadt]: https://alexwarstadt.github.io
