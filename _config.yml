@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Hongao Zhu
-email: cisco_sfl_sjtu@sjtu.edu.cn
+email: hoz034[at]{university domain}[dot]{edu}
 description: >- # this means to ignore newlines until "domain:"
   Hongao's Personal website
 domain: hongao.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com

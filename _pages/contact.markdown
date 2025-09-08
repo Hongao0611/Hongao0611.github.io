@@ -5,10 +5,9 @@ permalink: /contact/
 published: true
 ---
 
-**E-mail:** cisco_sfl_sjtu[at]sjtu[dot]edu[dot]cn
+**E-mail:** hoz034[at]{university domain}[dot]{edu}
 
 **Address:**
-No.800 Dongchuan Road, Shanghai Jiao Tong University,
-Minhang District,
-Shanghai, China.
-200240
+9500 Gilman Drive,
+Mail Code 0018,
+La Jolla, CA 92093.
