@@ -20,7 +20,7 @@ Welcome to my homepage!
 
 I am 朱虹翱 (pinyin: ZHŪ HÓNG ÁO, English: Hongao Zhu). Here's a copy of my [CV].
 
-In 2025 Fall, I will be joining UC San Diego’s Learning, Meaning, and Natural language lab (LeM🍋N Lab), as a PhD student in computational linguistics (advisor: [Alex Warstadt]). Prior to coming to UCSD, I received a B.A. in Linguistics from Shanghai Jiao Tong University (SJTU), Shanghai, China.
+In 2025 Fall, I will be joining UC San Diego’s Learning, Meaning, and Natural language lab (LeM🍋N Lab), as a PhD student in computational linguistics (advisor: [Alex Warstadt]). Prior to coming to UCSD, I received a B.A. in Linguistics from Shanghai Jiao Tong University (SJTU), Shanghai, China. My undergraduate thesis focused on LMs' language acquisition of the Chinese *Ba* construction, a phenomenon where we can observe both syntax and semantic development (advisor: [Hai Hu]). I was lucky to be Professor [William Schuler]'s research assistant starting Summer 2024, justifying small language models' estimates of human reading behavior and explaining their predictive power.
 
 To know more about me and my research interests, please visit the [About] page. If you may desire to communicate with me in greater depth, please check out the [Contact] page.
 
@@ -28,3 +28,5 @@ To know more about me and my research interests, please visit the [About] page. 
 [Contact]: /_pages/contact.markdown/
 [CV]: /assets/pdf/CV.pdf
 [Alex Warstadt]: https://alexwarstadt.github.io
+[Hai Hu]: http://huhailinguist.github.io/
+[William Schuler]: https://www.asc.ohio-state.edu/schuler.77

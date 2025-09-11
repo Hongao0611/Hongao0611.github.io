@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-I am 朱虹翱 (pinyin: ZHŪ HÓNG ÁO), a first-year PhD student in computational linguistics. Before that, I completed my undergraduate degree of Linguistics at Shanghai Jiao Tong University (SJTU), Shanghai, China. 
+I am 朱虹翱 (pinyin: ZHŪ HÓNG ÁO), a first-year PhD student in computational linguistics at UCSD. Before that, I completed my undergraduate degree of Linguistics at Shanghai Jiao Tong University (SJTU), Shanghai, China. 
 
 ### Research
 I have been engaging with computational linguistics and computational psycholinguistics in general. My research centered on the interpretation to LLMs' linguistic performance and its implication for language learnability.
