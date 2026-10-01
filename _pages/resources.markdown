@@ -12,6 +12,10 @@ published: true
 * **[Models](https://huggingface.co/collections/SJTU-CL/zh-pythia-6734b40c21823ee4ea28de8f):** The parameters of the Zh-Pythia models correspond to their English counterparts (size: 14M, 70M, 160M, 410M, 1.4B).
 
 
+**captain-nemo:** a toolkit for running large batches of GPU jobs on the [Nautilus (NRP)](https://nrp.ai) Kubernetes cluster without tripping its fair-use gate. It paces launches by NRP's utilization-violation budget, keeps jobs off faulty nodes, checks job manifests for setup steps that can hang, and produces an hourly health report. It ships as a skill that Claude Code and other coding agents can follow; the scripts also run on their own.
+* **[Github](https://github.com/Hongao0611/captain-nemo):** code, quick start, and the lessons learned from running ~700 GPU jobs on Nautilus (MIT license).
+
+
 **LanguageTesting:** A pipeline for analyzing students' performance in exams, which takes into account item facility, item discrimination, *B*-index,...
 * **[Github](https://github.com/Hongao0611/LanguageTesting):** Github webpage for the tool.
 * **[Binder](https://mybinder.org/v2/gh/Hongao0611/LanguageTesting.git/main?labpath=script%2Fanalysis.ipynb):** Binder example for the tool.
