@@ -4,3 +4,8 @@ _site
 .jekyll-metadata
 .DS_Store
 vendor
+
+# Word documents (e.g. CV source) are never published
+*.doc
+*.docx
+~$*

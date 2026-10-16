@@ -21,7 +21,8 @@
 title: Hongao Zhu
 email: hoz034[at]{university domain}[dot]{edu}
 description: >- # this means to ignore newlines until "domain:"
-  Hongao's Personal website
+  Hongao Zhu (朱虹翱), PhD student in computational linguistics at UC San Diego,
+  working on language models, language acquisition, and psycholinguistics.
 domain: hongao.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: "http://hongao0611.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
@@ -63,6 +64,7 @@ include: ["_pages"]
 header_pages:
   - _pages/about.markdown
   - _pages/publications.markdown
+  - _pages/teaching.markdown
   - _pages/projects.markdown
   - _pages/resources.markdown
   - _pages/gallery.markdown

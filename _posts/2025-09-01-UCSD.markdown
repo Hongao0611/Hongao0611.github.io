@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Starting my PhD at UC San Diego"
+date:   2025-09-01 12:00:00 -0700
+---
+
+This fall I start my PhD in computational linguistics at UC San Diego. I am joining Alex Warstadt's Learning, Meaning, and Natural Language Lab ([LeM🍋N Lab](https://lemn-lab.github.io/)), together with Yupei and Aditya.
+
+The lab uses language models to study how humans learn language and why language is the way it is, and uses linguistics and cognitive science to evaluate language models and make their training more data-efficient. This continues what I worked on as an undergraduate: in Hai Hu's lab at Shanghai Jiao Tong University, I trained small Chinese language models and tested which parts of grammar they learn, and with William Schuler at Ohio State, I studied how well language model surprisal predicts human reading times.
+
+I graduated from Shanghai Jiao Tong University in June with a B.A. in English (Linguistics).
