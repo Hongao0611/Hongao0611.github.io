@@ -64,3 +64,54 @@
 .page__content audio {
   max-width: 100%;
 }
+
+/* Gallery: photo cards in a responsive grid; click a photo to enlarge it */
+.gallery-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 1.25em;
+  margin: 1.5em 0;
+}
+
+.page__content .gallery-card {
+  display: block;
+  margin: 0;
+  overflow: hidden;
+  border: 1px solid $border-color;
+  border-radius: 8px;
+  background: #fff;
+  box-shadow: 0 1px 3px rgba(#000, 0.08);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(#000, 0.12);
+  }
+
+  img {
+    display: block;
+    width: 100%;
+    margin: 0;
+    aspect-ratio: 4 / 3;
+    object-fit: cover;
+  }
+
+  figcaption {
+    margin: 0;
+    padding: 0.6em 0.8em 0.75em;
+    font-family: $sans-serif;
+    font-size: $type-size-6;
+    line-height: 1.4;
+    color: $text-color;
+  }
+}
+
+.gallery-card__place {
+  display: block;
+  margin-top: 0.2em;
+  color: $gray;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .page__content .gallery-card { transition: none; }
+}

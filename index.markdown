@@ -15,7 +15,7 @@ I use language models to study how people learn and process language: whether mo
 
 To know more about me and my research, please visit the [About] page.
 
-## Posts
+## News
 
 <ul class="home-posts">
 {% for post in site.posts %}

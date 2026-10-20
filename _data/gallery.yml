@@ -1,0 +1,37 @@
+# Gallery photos, shown as cards on /gallery/ in this order.
+- caption: "Minhang campus, Shanghai Jiao Tong University"
+  place: "Shanghai, China"
+  image: /assets/images/gallery/SH-SJTU.jpg
+  alt: "A lake and trees on the Minhang campus of Shanghai Jiao Tong University, with the sun low in the sky"
+- caption: "Xuhui campus, Shanghai Jiao Tong University"
+  place: "Shanghai, China"
+  image: /assets/images/gallery/SH-museum.jpg
+  alt: "An installation of hanging red blocks above a wall of handwritten notes signed by Qian Xuesen (钱学森), on the Xuhui campus of Shanghai Jiao Tong University"
+- caption: "Chongming, Shanghai"
+  place: "Shanghai, China"
+  image: /assets/images/gallery/SH-tower.jpg
+  alt: "Looking straight up through the octagonal atrium of a building in Chongming, Shanghai"
+- caption: "The \"Fairy\" Mountain"
+  place: "Chongqing, China"
+  image: /assets/images/gallery/CQ-road.jpg
+  alt: "An empty road running straight toward green hills on the Fairy Mountain in Chongqing"
+- caption: "My neighbor's dog, \"LÓNG GUĪ\", trying to run away from home"
+  place: "Chongqing, China"
+  image: /assets/images/gallery/CQ-dog.jpg
+  alt: "My neighbor's small white dog peeking out between a stone balustrade and plants"
+- caption: "Dusk at the East Lake"
+  place: "Wuhan, China"
+  image: /assets/images/gallery/WH-dusk.jpg
+  alt: "Dusk at the East Lake in Wuhan, with silhouetted trees and two benches on a jetty"
+- caption: "The forest beside the East lake"
+  place: "Wuhan, China"
+  image: /assets/images/gallery/WH-lake.jpg
+  alt: "The East Lake in Wuhan, with wooded shores and hills in the distance"
+- caption: "Lijiang city"
+  place: "Yunnan, China"
+  image: /assets/images/gallery/YN-city.jpg
+  alt: "Rooftops of Lijiang's old town, with mountains behind and pink flowers in the foreground"
+- caption: "Mountains beside the West Lake"
+  place: "Zhejiang, China"
+  image: /assets/images/gallery/HZ-road.jpg
+  alt: "A stone path through low green bushes on a wooded hillside beside the West Lake"
