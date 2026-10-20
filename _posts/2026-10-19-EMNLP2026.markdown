@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Paper accepted to EMNLP 2026"
+date:   2026-10-19 12:00:00 -0700
+---
+
+Our paper with Yi-Chien Lin and William Schuler, [Vectors from Larger Language Models Predict Human Reading Time and fMRI Data More Poorly when Dimensionality Expansion is Controlled](https://arxiv.org/abs/2505.12196), will appear at EMNLP 2026.
+
+Surprisal from larger language models predicts human reading times worse. Some studies instead used whole vectors from language models and found that larger models predict better. But larger models also have more dimensions to fit with. We compared each trained model with an untrained model of the same size, up to 66B parameters. Larger models still predicted reading times and fMRI data more poorly, and the benefit of training dropped to zero at around a few billion parameters on most datasets.
+
+The code is on [GitHub](https://github.com/nicalin/llm-vec-dim-control).
