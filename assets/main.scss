@@ -1,0 +1,26 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+// Wider page: minima's default is 800px (a 740px text column); 960px gives a
+// 900px text column, the same as alexwarstadt.github.io.
+$content-width: 960px;
+
+@import "minima";
+
+// Bigger site title, with the first name in bold.
+.site-title {
+  font-size: 30px;
+
+  strong {
+    font-weight: 700;
+  }
+}
+
+// More space between nav tabs on wide screens (minima's default is 20px).
+// Narrower screens keep 20px so the tabs stay on one line; phones use the menu.
+@media screen and (min-width: 900px) {
+  .site-nav .page-link:not(:last-child) {
+    margin-right: 30px;
+  }
+}
