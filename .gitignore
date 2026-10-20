@@ -3,7 +3,7 @@ _site
 .jekyll-cache
 .jekyll-metadata
 .DS_Store
-vendor
+/vendor
 
 # Word documents (e.g. CV source) are never published
 *.doc

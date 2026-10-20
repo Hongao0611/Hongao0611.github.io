@@ -1,19 +1,7 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: single
+author_profile: true
 ---
-<style>
-    .float-left {
-        float: left;
-        margin: 0 15px 15px 0;
-        width: 20%;
-        height: auto;
-    }
-</style>
-
-<img src="/assets/images/mypic.jpg" alt="Photo of Hongao Zhu" class="float-left">
 
 I am Hongao Zhu (IPA: /xʊŋ35 ɑʊ35/ /ʈʂu55/, Mandarin: 朱虹翱, pinyin: ZHŪ HÓNG ÁO). [CV] · [Google Scholar] · [GitHub]
 

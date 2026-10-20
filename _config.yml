@@ -1,72 +1,104 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you:
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+# Site settings. Theme: AcademicPages (a fork of Minimal Mistakes), taken from
+# tommccoy1.github.io under the MIT license; see THEME-LICENSE.txt.
 
-title: Hongao Zhu
-email: hoz034[at]{university domain}[dot]{edu}
-description: >- # this means to ignore newlines until "domain:"
-  PhD student in computational linguistics at UC San Diego, working on
-  language models, language acquisition, and psycholinguistics.
-url: "https://hongao0611.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
-github_username:  Hongao0611
+locale                   : "en-US"
+title                    : "Hongao Zhu"
+title_separator          : "-"
+name                     : &name "Hongao Zhu"
+description              : &description "PhD student in computational linguistics at UC San Diego, working on language models, language acquisition, and psycholinguistics."
+url                      : "https://hongao0611.github.io"
+baseurl                  : ""
+repository               : "Hongao0611/Hongao0611.github.io"
+teaser                   :
+breadcrumbs              : false
+words_per_minute         : 160
+read_more                : "disabled"
 
-# Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+comments:
+  provider               : false
+atom_feed:
+  path                   : # blank (default) uses feed.xml
+twitter:
+  username               :
+og_image                 :
+analytics:
+  provider               : false
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# Sidebar. No email here, so the address stays obfuscated (see the Contact page).
+author:
+  name             : "Hongao Zhu"
+  avatar           : "/assets/images/mypic.jpg"
+  bio              : "PhD student in computational linguistics at UC San Diego"
+  googlescholar    : "https://scholar.google.com/citations?user=FHqFfM8AAAAJ&hl=en"
+  github           : "Hongao0611"
 
+# Reading files
+include:
+  - _pages
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - LICENSE
+  - THEME-LICENSE.txt
+  - README
+  - tmp
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+# Front matter defaults
 defaults:
   - scope:
-      path: "assets/img"
+      path: ""
+      type: posts
     values:
-      image: true
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: false
+      share: false
+      related: false
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 
-# edit this section to change the order of titles on the index page
-include: ["_pages"]
-header_pages:
-  - _pages/about.markdown
-  - _pages/publications.markdown
-  - _pages/puzzles.markdown
-  - _pages/teaching.markdown
-  - _pages/projects.markdown
-  - _pages/resources.markdown
-  - _pages/gallery.markdown
-  - _pages/CV.markdown
-  - _pages/contact.markdown
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Outputting: no timezone (UTC, as before), so post URLs keep their old /YYYY/MM/DD/ dates
+
+plugins:
+  - jekyll-feed
