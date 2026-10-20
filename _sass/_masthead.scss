@@ -47,7 +47,10 @@
   white-space: nowrap;
 
   &--lg {
-    padding-right: 2em;
-    font-weight: 700;
+    padding-right: 1.5em;
+    font-size: 1.5em; // bigger site name, with only "Hongao" in bold
+    font-weight: 400;
+
+    strong { font-weight: 700; }
   }
 }
