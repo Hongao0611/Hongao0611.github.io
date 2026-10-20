@@ -7,10 +7,6 @@ published: true
 
 *Publications on this page are updated sporadically.*
 
-### Work in progress
-
-**Hongao Zhu**, Hai Hu. (in prep). A Comparative Study of Language Acquisition in LLMs and Children: Evidence from the *Ba* Construction in Chinese.
-
 ### 2026
 
 **Hongao Zhu**, Muxiaoqiao Xu, Yikang Liu, Siyuan Song, Yuxia Wang, Byung-Doh Oh, Hai Hu. (2026). A Systematic Analysis of the Predictive Power of LM Surprisal in Reading Chinese. *ArXiv preprint arXiv:2610.04898*. [[pdf](https://arxiv.org/pdf/2610.04898)]<br>
