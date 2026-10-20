@@ -14,7 +14,7 @@ $indent-var                 : 1.3em;
 
 /* system typefaces */
 $serif                      : Georgia, Times, serif;
-$sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$sans-serif                 : "Roboto", -apple-system, ".SFNSText-Regular", "San Francisco", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif; // Roboto is self-hosted (assets/fonts/roboto)
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
 /* sans serif typefaces */
@@ -90,10 +90,10 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : #2a7ae2; // Hongao's blue (from the previous site), not the template's teal
+$link-color                 : #1f63c4; // Hongao's blue, darkened from #2a7ae2 for contrast (5.8:1 on white)
 $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
-$masthead-link-color        : $primary-color;
+$masthead-link-color        : #5c656b; // darker than $primary-color for contrast (6.0:1 on white)
 $masthead-link-color-hover  : mix(#000, $primary-color, 25%);
 
 
