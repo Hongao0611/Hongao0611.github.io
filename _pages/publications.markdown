@@ -24,8 +24,7 @@ Yikang Liu, Yeting Shen, **Hongao Zhu**, Lilong Xu, Zhiheng Qian, Siyuan Song, K
 
 Siyuan Song, Zhiheng Qian, Yunhao Zhang, Linyang He, Xiaozhe Ji, Yingxin Lin, **Hongao Zhu**, Chongtian Shao, Chuhan Lang, Luan Li, Rui Wang, Renfen Hu, Shaonan Wang, Hai Hu. (2026). The First ChineseBabyLM Challenge: Training Data-Efficient and Cognitively Plausible Language Models for Chinese. *ArXiv preprint arXiv:2607.10745*. [[pdf](https://arxiv.org/pdf/2607.10745)] [[data](https://huggingface.co/datasets/chinese-babylm-org/babylm-zho-100M)] [[evaluation](https://github.com/SiyuanSong2004/chinese-babylm-eval-pipeline)]
 
-Qingwen Zhao\*, **Hongao Zhu**\*, Yunqi He, Rui Wang, Aijun Huang, Hai Hu. (2026). LLMs for Automatic Annotation of Mandarin Narrative Transcripts. *ArXiv preprint arXiv:2605.17205*. [[pdf](https://arxiv.org/pdf/2605.17205)] (\*equal contribution)<br>
-*The best LLM agreed with human annotators at κ = .794 (human–human: .872) and cut annotation time by 65%.*
+Qingwen Zhao\*, **Hongao Zhu**\*, Yunqi He, Rui Wang, Aijun Huang, Hai Hu. (2026). LLMs for Automatic Annotation of Mandarin Narrative Transcripts. *ArXiv preprint arXiv:2605.17205*. [[pdf](https://arxiv.org/pdf/2605.17205)] (\*equal contribution)
 
 ### 2025
 

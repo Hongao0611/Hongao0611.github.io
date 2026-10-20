@@ -12,7 +12,7 @@ I work in computational linguistics and computational psycholinguistics. I use l
 
 Current work:
 
-- **How people process language, and what it means for evaluating models.** I model human reading times with language-model surprisal. Larger models fit human reading *worse*: this is not explained by training-data leakage (<a href="https://aclanthology.org/2025.findings-acl.91/" target="_blank">ACL Findings 2025</a>), it also holds for models' internal vectors once their extra dimensions are controlled for (<a href="https://arxiv.org/abs/2505.12196" target="_blank">EMNLP 2026</a>), and in Chinese, whether bigger models predict better depends on the eye-tracking corpus (<a href="https://arxiv.org/abs/2610.04898" target="_blank">preprint</a>). I also compare model judgments with human ones: with Qingwen Zhao, Aijun Huang, and Hai Hu, I tested LLMs as annotators of narrative structure in spoken Mandarin. The best model agreed with human annotators at κ = .794, against human–human agreement of .872, and cut annotation time by 65% (<a href="https://arxiv.org/abs/2605.17205" target="_blank">preprint</a>).
+- **Surprisal and human reading.** I model human reading times with language-model surprisal. Larger models fit human reading *worse*: this is not explained by training-data leakage (<a href="https://aclanthology.org/2025.findings-acl.91/" target="_blank">ACL Findings 2025</a>), it also holds for models' internal vectors once their extra dimensions are controlled for (<a href="https://arxiv.org/abs/2505.12196" target="_blank">EMNLP 2026</a>), and in Chinese, whether bigger models predict better depends on the eye-tracking corpus (<a href="https://arxiv.org/abs/2610.04898" target="_blank">preprint</a>).
 - **Critical periods.** People who start learning a language late rarely reach native-like proficiency, but language models show no such limit. I am studying what it would take for models to show these age effects.
 - **What makes a construction learnable.** Children learn English passives after actives. Using language models trained on manipulated data, I test whether frequency or morphological complexity explains this, in English and in Māori.
 
@@ -23,7 +23,7 @@ I co-organized the first [ChineseBabyLM Challenge]({% post_url 2026-07-12-Chines
 Here's my <a href="/assets/pdf/CV.pdf" target="_blank">CV.</a> I am happy to meet new friends and discuss collaboration or internship opportunities.
 
 ### Topics
-For the questions I have been thinking about lately, see my [recent research puzzles](/puzzles/). I am always happy to discuss them.
+For the questions I have been thinking about lately, see my [Puzzles](/puzzles/) page. I am always happy to discuss them.
 
 
 ### Hobbies
