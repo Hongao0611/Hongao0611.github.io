@@ -33,7 +33,7 @@ I am a second-year PhD student in computational linguistics at UC San Diego, adv
 
 **I'm looking for a research internship for summer 2027**, especially on how people understand and interact with language models, on model evaluation, or on computational psycholinguistics. See the [Contact] page.
 
-Curious what I have been thinking about lately? My [recent research puzzles] start with when a language model communicates in a way people understand, and also cover benchmarking sign language and what makes a construction learnable. To know more about me and my research, please visit the [About] page.
+Curious what I have been thinking about lately? My [recent research puzzles] start with when a language model communicates in a way people understand, and also cover how to benchmark what vision-language models understand about sign language, and what makes a construction learnable. To know more about me and my research, please visit the [About] page.
 
 [About]: /about/
 [Contact]: /contact/
