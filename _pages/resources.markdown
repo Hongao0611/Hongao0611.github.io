@@ -33,4 +33,7 @@ published: true
 
 
 ### Fun
-*(brewing)*
+
+**Chongqing Chinese, my home dialect:** an IPA illustration of 重庆话, a variety of Southwestern Mandarin, from a native speaker's recordings: its consonants, vowels, and four tones, with acoustic measurements and a glossed *North Wind and the Sun*.
+* **[Post]({% post_url 2025-12-06-ChongqingChinese %}):** listen to some of the recordings.
+* **[GitHub](https://github.com/Hongao0611/LIGN210-Phonetics):** data and scripts.
