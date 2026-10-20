@@ -64,6 +64,7 @@ include: ["_pages"]
 header_pages:
   - _pages/about.markdown
   - _pages/publications.markdown
+  - _pages/puzzles.markdown
   - _pages/teaching.markdown
   - _pages/projects.markdown
   - _pages/resources.markdown
