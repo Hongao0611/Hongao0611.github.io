@@ -9,7 +9,6 @@ published: true
 
 ### Work in progress
 
-<!-- TODO(Hongao): confirm the title; the CV uses this one, the site used "Assessing the Comprehension and Production in LLMs: A Case Study of Syntactic and Semantic Constraints in the Ba Construction" -->
 **Hongao Zhu**, Hai Hu. (in prep). A Comparative Study of Language Acquisition in LLMs and Children: Evidence from the *Ba* Construction in Chinese.
 
 ### 2026

@@ -13,7 +13,7 @@ published: true
 
 
 **captain-nemo:** a toolkit for running large batches of GPU jobs on the [Nautilus (NRP)](https://nrp.ai) Kubernetes cluster without tripping its fair-use gate. It paces launches by NRP's utilization-violation budget, keeps jobs off faulty nodes, checks job manifests for setup steps that can hang, and produces an hourly health report. It ships as a skill that Claude Code and other coding agents can follow; the scripts also run on their own.
-* **[Github](https://github.com/Hongao0611/captain-nemo):** code, quick start, and the lessons learned from running ~700 GPU jobs on Nautilus (MIT license). <!-- TODO(Hongao): verify "~700 GPU jobs"; it is not in the CV or the repo -->
+* **[Github](https://github.com/Hongao0611/captain-nemo):** code, quick start, and the lessons learned from running ~700 GPU jobs on Nautilus (MIT license).
 
 
 **Information in Mandarin tones:** how much do segmental and pitch (F0) cues each tell us about Mandarin tone? I predicted tones from segmental features, F0 contours, or both, on 1.1M vowels from the AISHELL-1 speech corpus. F0 carried most of the information, and vowel height and rounding added a little more.

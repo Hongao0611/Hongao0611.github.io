@@ -7,7 +7,6 @@ published: true
 
 These are the questions I have been puzzling over lately. Each of them opens up more research questions than I can work through on my own, so if any of them interests you, please [reach out](/contact/). I would love to discuss the details.
 
-<!-- DRAFT for Hongao to approve or edit: new first puzzle (brief §3) -->
 ### When does a language model communicate in a way people understand?
 
 We usually judge a model's replies by which ones people prefer. But preferring an answer is not the same as understanding it. Psycholinguistics has tools for measuring understanding, such as reading times and comprehension questions, and models of what makes text hard to process, such as surprisal. Both could be used to evaluate model replies directly. One complication: larger language models are worse models of human reading ([Oh, Zhu & Schuler, 2025](https://aclanthology.org/2025.findings-acl.91/); [Lin, Zhu & Schuler, 2026](https://arxiv.org/abs/2505.12196); [Oh & Linzen, 2025](https://arxiv.org/abs/2510.05141)). So a stronger model is not automatically a better stand-in for a human reader. Could we build simulated readers with human-like limits, such as limited memory, that predict what people will understand over a multi-turn conversation? And could we use them to make models clearer?

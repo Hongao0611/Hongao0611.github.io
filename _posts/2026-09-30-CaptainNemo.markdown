@@ -4,7 +4,7 @@ title:  "captain-nemo: running large batches of GPU jobs on Nautilus"
 date:   2026-09-30 12:00:00 -0700
 ---
 
-I released [captain-nemo](https://github.com/Hongao0611/captain-nemo), a small toolkit for running large batches of Kubernetes Jobs on the [Nautilus (NRP)](https://nrp.ai) cluster. I wrote it while running about 700 GPU jobs for my critical-period project,<!-- TODO(Hongao): verify "about 700 GPU jobs"; it is not in the CV or the repo --> where most of the work was keeping the batch moving rather than training the models.
+I released [captain-nemo](https://github.com/Hongao0611/captain-nemo), a small toolkit for running large batches of Kubernetes Jobs on the [Nautilus (NRP)](https://nrp.ai) cluster. I wrote it while running about 700 GPU jobs for my critical-period project, where most of the work was keeping the batch moving rather than training the models.
 
 The problems it handles:
 

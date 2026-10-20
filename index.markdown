@@ -15,12 +15,8 @@ layout: home
 
 <img src="/assets/images/mypic.jpg" alt="Photo of Hongao Zhu" class="float-left">
 
-
-Welcome to my homepage!
-
 I am Hongao Zhu (IPA: /xʊŋ35 ɑʊ35/ /ʈʂu55/, Mandarin: 朱虹翱, pinyin: ZHŪ HÓNG ÁO). [CV] · [Google Scholar] · [GitHub]
 
-<!-- DRAFT for Hongao to approve or edit: research paragraph (brief §1) -->
 I study what makes language easy or hard for people, and use that to evaluate language models. I model human reading with language-model surprisal in English and Chinese, including why larger models can fit human reading *worse* ([ACL Findings 2025](https://aclanthology.org/2025.findings-acl.91/); [EMNLP 2026](https://arxiv.org/abs/2505.12196); [preprint](https://arxiv.org/abs/2610.04898)). I also build controlled tests of what models know ([ZhoBLiMP], TACL 2026), and I check model judgments against human ones: in our [annotation study](https://arxiv.org/abs/2605.17205), the best LLM agreed with human annotators at κ = .79, against a human ceiling of .87. Lately I've been asking how we can tell whether a language model communicates in ways people actually understand.
 
 I am a second-year PhD student in computational linguistics at UC San Diego, advised by [Alex Warstadt] in the LeM🍋N Lab. Before that, I studied at Shanghai Jiao Tong University with [Hai Hu], and since 2024 I have worked with [William Schuler] at Ohio State. I also co-organized the first [ChineseBabyLM Challenge].
