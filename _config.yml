@@ -21,8 +21,8 @@
 title: Hongao Zhu
 email: hoz034[at]{university domain}[dot]{edu}
 description: >- # this means to ignore newlines until "domain:"
-  PhD student in computational linguistics at UC San Diego, working on human
-  language processing, language model evaluation, and language acquisition.
+  PhD student in computational linguistics at UC San Diego, working on
+  language models, language acquisition, and psycholinguistics.
 url: "https://hongao0611.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  Hongao0611
@@ -64,9 +64,9 @@ header_pages:
   - _pages/about.markdown
   - _pages/publications.markdown
   - _pages/puzzles.markdown
-  - _pages/resources.markdown
-  - _pages/projects.markdown
   - _pages/teaching.markdown
+  - _pages/projects.markdown
+  - _pages/resources.markdown
+  - _pages/gallery.markdown
   - _pages/CV.markdown
   - _pages/contact.markdown
-  - _pages/gallery.markdown
