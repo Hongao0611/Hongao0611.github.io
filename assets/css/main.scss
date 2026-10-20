@@ -37,3 +37,21 @@
 @import "vendor/font-awesome/font-awesome";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+/* Post list at the bottom of the home page: date in grey, then the title */
+.home-posts {
+  margin-left: 0;
+  padding-left: 0;
+  list-style: none;
+
+  li {
+    display: flex;
+    margin-bottom: 0.4em;
+  }
+}
+
+.home-posts__date {
+  flex: 0 0 7.5em;
+  color: $gray;
+  font-size: $type-size-6;
+  line-height: 2.2;
+}

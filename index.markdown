@@ -15,6 +15,14 @@ I use language models to study how people learn and process language: whether mo
 
 To know more about me and my research, please visit the [About] page.
 
+## Posts
+
+<ul class="home-posts">
+{% for post in site.posts %}
+  <li><span class="home-posts__date">{{ post.date | date: "%b %-d, %Y" }}</span><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></li>
+{% endfor %}
+</ul>
+
 [About]: /about/
 [Contact]: /contact/
 [Puzzles]: /puzzles/
