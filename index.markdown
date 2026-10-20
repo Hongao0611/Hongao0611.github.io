@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 ---
 
-I am Hongao Zhu (IPA: /xʊŋ35 ɑʊ35/ /ʈʂu55/, Mandarin: 朱虹翱, pinyin: ZHŪ HÓNG ÁO). [CV] · [Google Scholar] · [GitHub]
+I am Hongao Zhu (IPA: /xʊŋ35 ɑʊ35/ /ʈʂu55/, Mandarin: 朱虹翱, pinyin: ZHŪ HÓNG ÁO).
 
 I am a second-year PhD student in computational linguistics at UC San Diego, advised by [Alex Warstadt] in the Learning, Meaning, and Natural Language Lab (LeM🍋N Lab). Before UCSD, I received a B.A. in Linguistics from Shanghai Jiao Tong University.
 
@@ -26,9 +26,6 @@ To know more about me and my research, please visit the [About] page.
 [About]: /about/
 [Contact]: /contact/
 [Puzzles]: /puzzles/
-[CV]: /assets/pdf/CV.pdf
-[Google Scholar]: https://scholar.google.com/citations?user=FHqFfM8AAAAJ&hl=en
-[GitHub]: https://github.com/Hongao0611
 [Alex Warstadt]: https://alexwarstadt.github.io
 [Hai Hu]: http://huhailinguist.github.io/
 [William Schuler]: https://www.asc.ohio-state.edu/schuler.77
