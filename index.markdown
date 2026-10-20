@@ -19,7 +19,7 @@ I am Hongao Zhu (IPA: /xʊŋ35 ɑʊ35/ /ʈʂu55/, Mandarin: 朱虹翱, pinyin: Z
 
 I am a second-year PhD student in computational linguistics at UC San Diego, advised by [Alex Warstadt] in the Learning, Meaning, and Natural Language Lab (LeM🍋N Lab). Before UCSD, I received a B.A. in Linguistics from Shanghai Jiao Tong University.
 
-I use language models to study how people learn and process language: whether models can show the critical-period effects seen in human second-language learners, when language model surprisal predicts reading times in Chinese, and how to test what models know about grammar, as with the Chinese minimal-pair benchmark [ZhoBLiMP]. At SJTU, I worked with [Hai Hu] on how language models acquire the Chinese *Ba* construction, and since 2024 I have also worked with [William Schuler] at Ohio State on language model surprisal as a predictor of human reading times. I also co-organized the first [ChineseBabyLM Challenge].
+I use language models to study how people learn and process language: whether models can show the critical-period effects seen in human second-language learners, when language model surprisal predicts human reading times across languages, and how to test what models know about grammar, as with the minimal-pair benchmark [ZhoBLiMP]. At SJTU, I worked with [Hai Hu] on how language models acquire the *Ba* construction, and since 2024 I have also worked with [William Schuler] at Ohio State on language model surprisal as a predictor of human reading times. I also co-organized the first [ChineseBabyLM Challenge].
 
 **I'm looking for a research internship for summer 2027**, especially on how people understand and interact with language models, on model evaluation, or on computational psycholinguistics. See the [Contact] page.
 
