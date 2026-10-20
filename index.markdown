@@ -23,7 +23,7 @@ I use language models to study how people learn and process language: whether mo
 
 **I'm looking for a research internship for summer 2027**, especially on how people understand and interact with language models, on model evaluation, or on computational psycholinguistics. See the [Contact] page.
 
-**Curious what I have been thinking about lately?** My [Puzzles] page starts with whether language models can show a critical period, and also covers what makes a construction learnable, how to benchmark what vision-language models understand about sign language, and when a voice model should take its turn.
+**Curious what I have been thinking about lately?** My [Puzzles] page covers questions such as whether language models can show a critical period, what makes a construction learnable, how to benchmark what vision-language models understand about sign language, and when a voice model should take its turn.
 
 To know more about me and my research, please visit the [About] page.
 
