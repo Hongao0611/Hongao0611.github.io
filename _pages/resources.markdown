@@ -7,7 +7,7 @@ published: true
 
 ### Academic
 
-**ZhoBLiMP:** a systematic assessment of language models with linguistic minimal pairs in Chinese. ZhoBLiMP is a dataset that can be used to probe Chinese linguistic knowledge in language models, especially syntax. To validate ZhoBLiMP, we trained 5 Zh-Pythia models from scratch on original Chinese data.
+**ZhoBLiMP:** a systematic assessment of language models with linguistic minimal pairs in Chinese. ZhoBLiMP is a dataset that can be used to probe Mandarin Chinese linguistic knowledge in language models, especially syntax. To validate ZhoBLiMP, we trained 5 Zh-Pythia models from scratch on original Mandarin Chinese data.
 * **[Dataset](https://github.com/sjtu-compling/ZhoBLiMP):** ZhoBLiMP covers 118 paradigms in 15 high-level linguistic phenomena. It contains 35k minimal pairs that differ in a minimal way to demonstrate a single syntactic or semantic contrast.
 * **[Models](https://huggingface.co/collections/SJTU-CL/zh-pythia-6734b40c21823ee4ea28de8f):** The parameters of the Zh-Pythia models correspond to their English counterparts (size: 14M, 70M, 160M, 410M, 1.4B).
 

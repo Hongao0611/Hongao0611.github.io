@@ -14,7 +14,7 @@ published: true
 ### 2026
 
 **Hongao Zhu**, Muxiaoqiao Xu, Yikang Liu, Siyuan Song, Yuxia Wang, Byung-Doh Oh, Hai Hu. (2026). A Systematic Analysis of the Predictive Power of LM Surprisal in Reading Chinese. *ArXiv preprint arXiv:2610.04898*. [[pdf](https://arxiv.org/pdf/2610.04898)]<br>
-*Surprisal predicts Chinese reading times, but whether bigger models predict better depends on the eye-tracking corpus.*
+*Surprisal predicts Mandarin Chinese reading times, but whether bigger models predict better depends on the eye-tracking corpus.*
 
 Yi-Chien Lin, **Hongao Zhu**, William Schuler. (2026). Vectors from Larger Language Models Predict Human Reading Time and fMRI Data More Poorly when Dimensionality Expansion is Controlled. To appear in *EMNLP 2026*. [[pdf](https://arxiv.org/pdf/2505.12196)] [[code](https://github.com/nicalin/llm-vec-dim-control)]<br>
 *Controlling for dimensionality, larger models predict reading times and fMRI worse, and the benefit of training vanishes at a few billion parameters on most datasets.*
