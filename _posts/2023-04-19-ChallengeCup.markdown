@@ -9,6 +9,6 @@ On this day, Hong'ao's team finished the presentation of their Challenge Cup pro
 As the leader of the Challenge Cup team, he was happy to see the project winning the most popular reward.
 
 <div style="display: flex;">
-    <img src="/assets/images/challengecup/答辩照片.jpg" alt="替代文本" title="The team" style="width:49%;height:auto;margin-right: 10px;">
-    <img src="/assets/images/challengecup/最佳人气奖.jpg" alt="替代文本" title="Certificate" style="width:49%;height:auto;">
+    <img src="/assets/images/challengecup/答辩照片.jpg" alt="Four members of the project team standing in front of a Shanghai Jiao Tong University banner" title="The team" style="width:49%;height:auto;margin-right: 10px;">
+    <img src="/assets/images/challengecup/最佳人气奖.jpg" alt="Certificate of the Most Popular Award (最佳人气奖) for the team's project" title="Certificate" style="width:49%;height:auto;">
 </div>
