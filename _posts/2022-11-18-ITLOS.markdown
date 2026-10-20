@@ -8,6 +8,6 @@ In the 2022 China International Law of the Sea Moot Court Competition, Hong'ao w
 
 Check out the [news](https://mp.weixin.qq.com/s/ExgnBBGwhsCzQQ1oltMrMw).
 
-<div style="display: flex;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 1em;">
     <img src="/assets/images/MOOT.jpg" alt="The moot court team, seven students, standing behind a lectern after the competition" title="Meet the team" style="width:80%;height:auto;margin:auto;">
 </div>

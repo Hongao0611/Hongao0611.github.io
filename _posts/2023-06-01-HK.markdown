@@ -5,7 +5,7 @@ date:   2023-06-01 14:45:02 +0800
 ---
 
 Before the world's children's day, Hong'ao attended the 2023 New Horizons in Digital Humanities & Cultural Data Science Workshop at Hong Kong University. The trip was costly yet fufilling, as eminent professors who specialized in various subfilds of digital humanities were invited to speak about their future visions of AI, just before ChatGPT came into the spotlight.
-<div style="display: flex;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 1em;">
 <img src="/assets/images/hk/arrival.jpg" alt="A Hong Kong street at night, with tall buildings and a lit vertical hotel sign" title="On arrival" style="width:50%;height:auto;margin:auto;">
 </div>
 
@@ -15,6 +15,6 @@ Hong'ao, together with a PhD student and an undergraduate fellow, attended the p
 This conversation deepened his understanding of machine learning for humanities, and prompted him further towards the road of computational linguistics.
 
 Besides, what Hong'ao particularly enjoyed was the lunch and dinner offered during the session breaks.
-<div style="display: flex;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 1em;">
     <img src="/assets/images/hk/food.jpg" alt="A collage of dishes from the workshop's meals, including roast meats, sausages, salad and a burger" title="Hong Kong food" style="width:80%;height:auto;margin:auto;">
 </div>

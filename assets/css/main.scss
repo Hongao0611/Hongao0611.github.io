@@ -55,3 +55,8 @@
   font-size: $type-size-6;
   line-height: 2.2;
 }
+
+/* Keep audio players inside the text column on phones */
+.page__content audio {
+  max-width: 100%;
+}
